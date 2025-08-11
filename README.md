@@ -11,9 +11,8 @@ This repository contains an end-to-end data engineering and analytics project th
 2.  [Key Features](#2-key-features)
 3.  [Tech Stack](#3-tech-stack)
 4.  [Data Architecture](#4-data-architecture)
-5.  [Project Structure](#5-project-structure)
-6.  [How to Run](#6-how-to-run)
-7.  [Data Pipeline Explained](#7-data-pipeline-explained)
+5.  [How to Run](#5-how-to-run)
+6.  [Data Pipeline Explained](#6-data-pipeline-explained)
 
 ---
 
