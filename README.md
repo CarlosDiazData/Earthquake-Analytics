@@ -1,4 +1,4 @@
-# End-to-End Earthquake Analytics  on Microsoft Fabric
+# End-to-End Earthquake Analytics on Microsoft Fabric
 
 This repository contains an end-to-end data engineering and analytics project that processes global earthquake data. The platform automates data ingestion from a public API, implements a multi-layered Lakehouse architecture, builds a dimensional model for BI, and develops a machine learning model for tsunami prediction—all within the Microsoft Fabric ecosystem.
 
@@ -14,9 +14,6 @@ This repository contains an end-to-end data engineering and analytics project th
 5.  [Project Structure](#5-project-structure)
 6.  [How to Run](#6-how-to-run)
 7.  [Data Pipeline Explained](#7-data-pipeline-explained)
-8.  [Power BI Dashboard Showcase](#8-power-bi-dashboard-showcase)
-9.  [Lessons Learned & Future Improvements](#9-lessons-learned--future-improvements)
-10. [Contact](#10-contact)
 
 ---
 
